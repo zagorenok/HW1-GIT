@@ -1,0 +1,31 @@
+1ddb0d5 (HEAD -> develop) HEAD@{0}: commit (merge): Fixed
+f7c7284 (feature3) HEAD@{1}: merge feature3: Fast-forward
+2e4e820 (main) HEAD@{2}: checkout: moving from develop to develop
+2e4e820 (main) HEAD@{3}: checkout: moving from feature4 to develop
+52512a0 (feature4) HEAD@{4}: commit: add styles
+2e4e820 (main) HEAD@{5}: checkout: moving from develop to feature4
+2e4e820 (main) HEAD@{6}: checkout: moving from feature3 to develop
+f7c7284 (feature3) HEAD@{7}: commit: add new styles
+2e4e820 (main) HEAD@{8}: checkout: moving from develop to feature3
+2e4e820 (main) HEAD@{9}: checkout: moving from main to develop
+2e4e820 (main) HEAD@{10}: merge develop: Fast-forward
+ec8edac (origin/main) HEAD@{11}: checkout: moving from develop to main
+2e4e820 (main) HEAD@{12}: commit (merge): Fixed
+5e607d4 HEAD@{13}: commit: add styles
+4bed3c7 HEAD@{14}: checkout: moving from develop to develop
+4bed3c7 HEAD@{15}: checkout: moving from develop to develop
+4bed3c7 HEAD@{16}: reset: moving to HEAD~
+219000d (feature1) HEAD@{17}: merge feature1: Fast-forward
+ec8edac (origin/main) HEAD@{18}: checkout: moving from feature2 to develop
+0b937d9 (feature2) HEAD@{19}: commit: add styles
+ec8edac (origin/main) HEAD@{20}: checkout: moving from develop to feature2
+ec8edac (origin/main) HEAD@{21}: checkout: moving from feature1 to develop
+219000d (feature1) HEAD@{22}: commit: add pictures in html
+4bed3c7 HEAD@{23}: reset: moving to HEAD~
+558263d HEAD@{24}: commit: add pictures
+4bed3c7 HEAD@{25}: reset: moving to HEAD
+4bed3c7 HEAD@{26}: commit: add pictures
+ec8edac (origin/main) HEAD@{27}: checkout: moving from develop to feature1
+ec8edac (origin/main) HEAD@{28}: checkout: moving from main to develop
+ec8edac (origin/main) HEAD@{29}: commit (initial): first commit
+~
